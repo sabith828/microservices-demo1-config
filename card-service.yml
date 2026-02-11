@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+card-service:
+  message: "Welcome to card-service related DEV APIs"
+  contactDetails:
+    name: "Mohamed Sabith"
+    email: "sabith_dev@gmail.com"
