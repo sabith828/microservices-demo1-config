@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+card-service:
+  message: "Welcome to card-service related QA APIs"
+  contactDetails:
+    name: "Mohamed Sabith"
+    email: "sabith_qa@gmail.com"
