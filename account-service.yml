@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+account-service:
+  message: "Welcome to account-service related DEV APIs"
+  contactDetails:
+    name: "Mohamed Sabith"
+    email: "sabith_dev@gmail.com"
