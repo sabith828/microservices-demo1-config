@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+loan-service:
+  message: "Welcome to loan-service related PROD APIs"
+  contactDetails:
+    name: "Mohamed Sabith"
+    email: "sabith_prod@gmail.com"
