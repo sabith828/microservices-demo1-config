@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+card-service:
+  message: "Welcome to card-service related PROD APIs"
+  contactDetails:
+    name: "Mohamed Sabith"
+    email: "sabith_prod@gmail.com"
