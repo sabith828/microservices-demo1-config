@@ -4,5 +4,5 @@ build:
 card-service:
   message: "Welcome to card-service related PROD APIs"
   contactDetails:
-    name: "Mohamed Sabith1"
-    email: "sabith_prod1@gmail.com"
+    name: "Mohamed Sabith2"
+    email: "sabith_prod2@gmail.com"
