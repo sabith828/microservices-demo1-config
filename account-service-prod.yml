@@ -4,5 +4,5 @@ build:
 account-service:
   message: "Welcome to account-service related PROD APIs"
   contactDetails:
-    name: "Mohamed Sabith"
-    email: "sabith_prod@gmail.com"
+    name: "Mohamed Sabith1"
+    email: "sabith_prod1@gmail.com"
